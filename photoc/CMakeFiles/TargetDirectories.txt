@@ -1,0 +1,1 @@
+/home/bhuvesh/pclub/photoc/CMakeFiles/photoc.dir
